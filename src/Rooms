@@ -1,0 +1,13 @@
+3
+Inn
+The only inn in town. Its in right now. Rooms are straight ahead
+mug
+1 -1 -1 -1 -1 -1
+Hallway
+The hallway to your room. Its on your left
+
+-1 0 -1 2 -1 -1
+Bedroom
+There's at least a bed. Devoid of rest, relaxation, and privacy. The door's East
+Sword;Book
+-1 -1 1 -1 -1 -1
